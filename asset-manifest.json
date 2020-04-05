@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/css/main.5db1380d.chunk.css",
-    "main.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/main.19ef074d.chunk.js",
-    "main.js.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/main.19ef074d.chunk.js.map",
+    "main.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/main.4ad6ffbb.chunk.js",
+    "main.js.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/main.4ad6ffbb.chunk.js.map",
     "runtime-main.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/runtime-main.149a7fdd.js",
     "runtime-main.js.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/runtime-main.149a7fdd.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.4f4db85c.chunk.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/2.4f4db85c.chunk.js",
-    "static/js/2.4f4db85c.chunk.js.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/2.4f4db85c.chunk.js.map",
+    "static/js/2.51ea2d4a.chunk.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/2.51ea2d4a.chunk.js",
+    "static/js/2.51ea2d4a.chunk.js.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/2.51ea2d4a.chunk.js.map",
     "index.html": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/index.html",
-    "precache-manifest.c780cd1162452b453878819d80353a18.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/precache-manifest.c780cd1162452b453878819d80353a18.js",
+    "precache-manifest.fb064e1ebe34f6c2ea99a0f9a1025f83.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/precache-manifest.fb064e1ebe34f6c2ea99a0f9a1025f83.js",
     "service-worker.js": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/css/main.5db1380d.chunk.css.map",
-    "static/js/2.4f4db85c.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/2.4f4db85c.chunk.js.LICENSE.txt",
+    "static/js/2.51ea2d4a.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/js/2.51ea2d4a.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/Crio-Launch-Feb-2020-nh10-iitbbs-ac/static/media/crio-logo.63be71d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.149a7fdd.js",
     "static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.4f4db85c.chunk.js",
+    "static/js/2.51ea2d4a.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.19ef074d.chunk.js"
+    "static/js/main.4ad6ffbb.chunk.js"
   ]
 }
